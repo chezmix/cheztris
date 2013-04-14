@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+# custom
+*.ncb
+.svn
+debug
+release
+src/tetris.vcproj.*
